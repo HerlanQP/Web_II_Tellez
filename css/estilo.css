@@ -1,0 +1,34 @@
+body
+{
+    margin: 1cm;
+}
+.titulo
+{
+    font-family: "Eczar", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: bold;
+}
+.formulario
+{
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+.footer 
+{
+    background-color: #343a40;
+    color: #ffffff;
+}
+.footer-links 
+{
+    list-style: none;
+    padding-left: 0;
+}
+.footer-links li 
+{
+    margin-bottom: 8px;
+}
+  .footer-links a 
+{
+    color: #ffffff;
+}
